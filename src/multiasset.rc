@@ -1,0 +1,5 @@
+//Resource file for MultiAsset
+
+aaaaaaaa ICON "multiasset.ico"
+
+MULTIASSET_ICON ICON "multiasset.ico"
